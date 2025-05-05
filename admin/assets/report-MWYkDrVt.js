@@ -1,0 +1,1 @@
+import{a0 as s}from"./index-DgS_gExp.js";function e(t){return s({url:"/system/system/data_statistics/list",params:t})}function i(t){return s({url:"/system/system/data_statistics/home ",params:t})}export{e as a,i as g};
