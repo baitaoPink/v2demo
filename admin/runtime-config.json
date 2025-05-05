@@ -1,6 +1,6 @@
 {
-  "SERVICE_BASE_URL": "https://v2admin.001ghsp.com/",
+  "SERVICE_BASE_URL": "https://adminapi.v2ssdui.com/",
   "OTHER_SERVICE_BASE_URL": {
-    "demo": "https://v2admin.001ghsp.com/"
+    "demo": "https://adminapi.v2ssdui.com/"
   }
 }
