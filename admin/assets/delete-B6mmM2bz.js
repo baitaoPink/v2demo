@@ -1,1 +1,0 @@
-import{a7 as o,o as n,b as t,e as a}from"./index-Cs7V50wn.js";const l={class:"inline-block",viewBox:"0 0 24 24",width:"1em",height:"1em"};function r(s,e){return n(),t("svg",l,e[0]||(e[0]=[a("path",{fill:"currentColor",d:"M19 4h-3.5l-1-1h-5l-1 1H5v2h14M6 19a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7H6z"},null,-1)]))}const c=o({name:"mdi-delete",render:r});export{c as _};
