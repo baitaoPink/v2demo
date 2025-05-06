@@ -1,0 +1,1 @@
+import{p as e,h as r,n as s,o as t,t as n}from"./index-B2xpwpwA.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const a=o({},[["render",function(o,a){const p=s;return t(),e(p,null,{default:r((()=>[n("余额宝")])),_:1})}]]);export{a as default};

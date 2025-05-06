@@ -1,0 +1,1 @@
+import{p as e,h as r,n as s,o as t,t as a}from"./index-B2xpwpwA.js";import{_ as n}from"./_plugin-vue_export-helper.BCo6x5W8.js";const o=n({},[["render",function(n,o){const p=s;return t(),e(p,null,{default:r((()=>[a("ai")])),_:1})}]]);export{o as default};

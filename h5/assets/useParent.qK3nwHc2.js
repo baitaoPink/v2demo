@@ -1,0 +1,1 @@
+import{aM as n,aB as r,c as a,r as e,bG as i}from"./index-B2xpwpwA.js";function t(t){const s=n(t,null);if(s){const n=i(),{link:e,unlink:t,internalChildren:l}=s;e(n),r((()=>t(n)));return{parent:s,index:a((()=>l.indexOf(n)))}}return{parent:null,index:e(-1)}}export{t as u};
